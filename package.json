@@ -104,5 +104,10 @@
     "paths": [
       "lib/google-analytics"
     ]
+  },
+  "resolutions": {
+    "minimatch": "11.0.1",
+    "tmp": "0.2.6",
+    "rollup": "2.80.0"
   }
 }
